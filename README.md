@@ -1,4 +1,4 @@
-# vue-template-h5
+# vue-template-mobile
 
 ## Project setup
 ```
